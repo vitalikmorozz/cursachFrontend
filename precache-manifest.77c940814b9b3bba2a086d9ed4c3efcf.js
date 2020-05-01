@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54cc66c3cc7c273813b8399444166efa",
+    "revision": "086b53dd713cc5a8b23471c337328ed7",
     "url": "/cursachFrontend/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cursachFrontend/static/js/2.92b52478.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b45b07a484e607d5b2a",
-    "url": "/cursachFrontend/static/js/main.e6d6356e.chunk.js"
+    "revision": "7643546d4019c263dfca",
+    "url": "/cursachFrontend/static/js/main.176b89a3.chunk.js"
   },
   {
     "revision": "d10cbde5b143f7c7a7bc",

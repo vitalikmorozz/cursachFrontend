@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/cursachFrontend/static/js/main.e6d6356e.chunk.js",
-    "main.js.map": "/cursachFrontend/static/js/main.e6d6356e.chunk.js.map",
+    "main.js": "/cursachFrontend/static/js/main.176b89a3.chunk.js",
+    "main.js.map": "/cursachFrontend/static/js/main.176b89a3.chunk.js.map",
     "runtime-main.js": "/cursachFrontend/static/js/runtime-main.9ff0f812.js",
     "runtime-main.js.map": "/cursachFrontend/static/js/runtime-main.9ff0f812.js.map",
     "static/js/2.92b52478.chunk.js": "/cursachFrontend/static/js/2.92b52478.chunk.js",
     "static/js/2.92b52478.chunk.js.map": "/cursachFrontend/static/js/2.92b52478.chunk.js.map",
     "index.html": "/cursachFrontend/index.html",
-    "precache-manifest.d24f811d1bdd03b37e32738e93b816e2.js": "/cursachFrontend/precache-manifest.d24f811d1bdd03b37e32738e93b816e2.js",
+    "precache-manifest.77c940814b9b3bba2a086d9ed4c3efcf.js": "/cursachFrontend/precache-manifest.77c940814b9b3bba2a086d9ed4c3efcf.js",
     "service-worker.js": "/cursachFrontend/service-worker.js",
     "static/js/2.92b52478.chunk.js.LICENSE.txt": "/cursachFrontend/static/js/2.92b52478.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ff0f812.js",
     "static/js/2.92b52478.chunk.js",
-    "static/js/main.e6d6356e.chunk.js"
+    "static/js/main.176b89a3.chunk.js"
   ]
 }
