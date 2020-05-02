@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components';
 
 const SortButton = styled.div`
@@ -17,8 +16,4 @@ const SortButton = styled.div`
 	cursor: pointer;
 `;
 
-const SearchButton = ({ setSortField, fieldName }) => {
-	return <SortButton onClick={() => setSortField(fieldName[0].toLowerCase() + fieldName.slice(1))}>⇅</SortButton>;
-};
-
-export default SearchButton;
+export default SortButton;
