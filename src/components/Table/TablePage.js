@@ -1,8 +1,9 @@
 import React, { useEffect, useContext } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 
 import Table from './Table';
 import Loader from '../UIElements/Loader';
+import Button from '../UIElements/Button';
 import { TableContext } from './TableContext';
 
 const TablePage = () => {
@@ -15,7 +16,11 @@ const TablePage = () => {
 
 	return (
 		<div>
-			<input type="text" onInput={(e) => setFilter(e.target.value)} placeholder="Search" />
+			<h1>{table[0].toUpperCase() + table.slice(1)} list</h1>
+			<input type="text" onInput={(e) => setFilter(e.target.value)} placeholder="Search" />{' '}
+			<Link to={`/${table}/edit`}>
+				<Button>+</Button>
+			</Link>
 			{!load ? <Loader /> : <Table />}
 		</div>
 	);

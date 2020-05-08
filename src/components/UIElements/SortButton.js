@@ -14,6 +14,7 @@ const SortButton = styled.div`
 	align-content: center;
 	font-size: 11px;
 	cursor: pointer;
+	margin-left: 10px;
 `;
 
 export default SortButton;

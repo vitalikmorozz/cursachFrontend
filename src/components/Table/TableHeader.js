@@ -1,4 +1,5 @@
 import React, { useContext } from 'react';
+import './table.css';
 
 import SortButton from '../UIElements/SortButton';
 import { TableContext } from './TableContext';
@@ -8,6 +9,11 @@ const TableHeader = ({ item }) => {
 
 	const tableHeader = Object.keys(item)
 		.map((columnName) => columnName[0].toUpperCase() + columnName.slice(1))
+		.map((columnName) => {
+			if (columnName.includes('Medicament')) return columnName.replace('Medicament', 'Medic');
+			if (columnName.includes('Minimal')) return columnName.replace('Minimal', 'Min');
+			return columnName;
+		})
 		.map((value, i) => (
 			<th key={`${item.id} ${i}`}>
 				{value}

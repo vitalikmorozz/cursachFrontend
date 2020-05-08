@@ -1,4 +1,5 @@
 import React, { useContext } from 'react';
+import './table.css';
 
 import TableRow from './TableRow';
 import TableHeader from './TableHeader';
