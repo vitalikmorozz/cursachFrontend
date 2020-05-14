@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cursachFrontend/static/css/main.6f599e86.chunk.css",
-    "main.js": "/cursachFrontend/static/js/main.7e2115d7.chunk.js",
-    "main.js.map": "/cursachFrontend/static/js/main.7e2115d7.chunk.js.map",
+    "main.js": "/cursachFrontend/static/js/main.7bdbeedf.chunk.js",
+    "main.js.map": "/cursachFrontend/static/js/main.7bdbeedf.chunk.js.map",
     "runtime-main.js": "/cursachFrontend/static/js/runtime-main.9ff0f812.js",
     "runtime-main.js.map": "/cursachFrontend/static/js/runtime-main.9ff0f812.js.map",
-    "static/js/2.07e0d03d.chunk.js": "/cursachFrontend/static/js/2.07e0d03d.chunk.js",
-    "static/js/2.07e0d03d.chunk.js.map": "/cursachFrontend/static/js/2.07e0d03d.chunk.js.map",
+    "static/js/2.477916cd.chunk.js": "/cursachFrontend/static/js/2.477916cd.chunk.js",
+    "static/js/2.477916cd.chunk.js.map": "/cursachFrontend/static/js/2.477916cd.chunk.js.map",
     "index.html": "/cursachFrontend/index.html",
-    "precache-manifest.af5ed6a2946835781e84d9c7463901f7.js": "/cursachFrontend/precache-manifest.af5ed6a2946835781e84d9c7463901f7.js",
+    "precache-manifest.d646ec70513ed862fd9c9b56cf49cbf9.js": "/cursachFrontend/precache-manifest.d646ec70513ed862fd9c9b56cf49cbf9.js",
     "service-worker.js": "/cursachFrontend/service-worker.js",
     "static/css/main.6f599e86.chunk.css.map": "/cursachFrontend/static/css/main.6f599e86.chunk.css.map",
-    "static/js/2.07e0d03d.chunk.js.LICENSE.txt": "/cursachFrontend/static/js/2.07e0d03d.chunk.js.LICENSE.txt"
+    "static/js/2.477916cd.chunk.js.LICENSE.txt": "/cursachFrontend/static/js/2.477916cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ff0f812.js",
-    "static/js/2.07e0d03d.chunk.js",
+    "static/js/2.477916cd.chunk.js",
     "static/css/main.6f599e86.chunk.css",
-    "static/js/main.7e2115d7.chunk.js"
+    "static/js/main.7bdbeedf.chunk.js"
   ]
 }
