@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cursachFrontend/static/css/main.6f599e86.chunk.css",
-    "main.js": "/cursachFrontend/static/js/main.8ff1ccfd.chunk.js",
-    "main.js.map": "/cursachFrontend/static/js/main.8ff1ccfd.chunk.js.map",
+    "main.js": "/cursachFrontend/static/js/main.7e2115d7.chunk.js",
+    "main.js.map": "/cursachFrontend/static/js/main.7e2115d7.chunk.js.map",
     "runtime-main.js": "/cursachFrontend/static/js/runtime-main.9ff0f812.js",
     "runtime-main.js.map": "/cursachFrontend/static/js/runtime-main.9ff0f812.js.map",
     "static/js/2.07e0d03d.chunk.js": "/cursachFrontend/static/js/2.07e0d03d.chunk.js",
     "static/js/2.07e0d03d.chunk.js.map": "/cursachFrontend/static/js/2.07e0d03d.chunk.js.map",
     "index.html": "/cursachFrontend/index.html",
-    "precache-manifest.5753f5b145cdf2d8225428c73002d9f3.js": "/cursachFrontend/precache-manifest.5753f5b145cdf2d8225428c73002d9f3.js",
+    "precache-manifest.af5ed6a2946835781e84d9c7463901f7.js": "/cursachFrontend/precache-manifest.af5ed6a2946835781e84d9c7463901f7.js",
     "service-worker.js": "/cursachFrontend/service-worker.js",
     "static/css/main.6f599e86.chunk.css.map": "/cursachFrontend/static/css/main.6f599e86.chunk.css.map",
     "static/js/2.07e0d03d.chunk.js.LICENSE.txt": "/cursachFrontend/static/js/2.07e0d03d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9ff0f812.js",
     "static/js/2.07e0d03d.chunk.js",
     "static/css/main.6f599e86.chunk.css",
-    "static/js/main.8ff1ccfd.chunk.js"
+    "static/js/main.7e2115d7.chunk.js"
   ]
 }
