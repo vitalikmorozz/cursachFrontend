@@ -13,7 +13,7 @@ export const TableProvider = (props) => {
 		return new Promise((resolve, reject) => {
 			// https://cursach-app.herokuapp.com/api/client/get/list
 			axios
-				.get(`http://localhost:8080/api/${url}`)
+				.get(`https://cursach-app.herokuapp.com/api/${url}`)
 				.then((res) => res.data)
 				.then(resolve)
 				.catch(reject);
@@ -24,7 +24,7 @@ export const TableProvider = (props) => {
 		return new Promise((resolve, reject) => {
 			// https://cursach-app.herokuapp.com/api/client/get/list
 			axios
-				.post(`http://localhost:8080/api/${url}`)
+				.post(`https://cursach-app.herokuapp.com/api/${url}`)
 				.then((res) => res.data)
 				.then(resolve)
 				.catch(reject);

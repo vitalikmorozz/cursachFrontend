@@ -16,7 +16,7 @@ import MedicamentUsageForm from './MedicamentUsageForm';
 const FromPage = (props) => {
 	const { table, id } = useParams();
 	const [obj, setObject] = useState(null);
-	const baseUrl = 'http://localhost:8080/api/';
+	const baseUrl = 'https://cursach-app.herokuapp.com/api/';
 
 	useEffect(() => {
 		if (id) {
