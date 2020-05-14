@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import './style.css';
 
 import Navbar from './components/NavBar/Navbar';
@@ -17,6 +17,10 @@ const App = () => (
 				<TableProvider>
 					<Route path="/" exact>
 						<Home />
+					</Route>
+
+					<Route path="/cursachFrontend" exact>
+						<Redirect to={{ pathname: '/' }} />
 					</Route>
 
 					<Route path="/:table" exact>

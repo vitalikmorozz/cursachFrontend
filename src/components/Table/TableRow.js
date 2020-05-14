@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import './table.css';
 
 import Button from '../UIElements/Button';
@@ -23,9 +23,9 @@ const TableRow = ({ item }) => {
 	);
 	tableRow.push(
 		<td key={`${item.id}-edit`}>
-			<a href={`/${table}/edit/${item.id}`}>
+			<Link to={`/${table}/edit/${item.id}`}>
 				<Button>🖊</Button>
-			</a>
+			</Link>
 		</td>
 	);
 	return <tr key={item.id}>{tableRow}</tr>;
