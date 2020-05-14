@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5e68d00ae9ffd15f0201aab0c49bebf",
+    "revision": "4ffa38965168791b3249c601b5b01f47",
     "url": "/cursachFrontend/index.html"
   },
   {
-    "revision": "34ac50969cd81134fb1d",
+    "revision": "e96ac4e56605d99776dc",
     "url": "/cursachFrontend/static/css/main.6f599e86.chunk.css"
   },
   {
-    "revision": "fb09d1b57f74f0b7a53a",
-    "url": "/cursachFrontend/static/js/2.477916cd.chunk.js"
+    "revision": "734152f5e5a8ddf7dbfa",
+    "url": "/cursachFrontend/static/js/2.2e773937.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/cursachFrontend/static/js/2.477916cd.chunk.js.LICENSE.txt"
+    "url": "/cursachFrontend/static/js/2.2e773937.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34ac50969cd81134fb1d",
-    "url": "/cursachFrontend/static/js/main.7bdbeedf.chunk.js"
+    "revision": "e96ac4e56605d99776dc",
+    "url": "/cursachFrontend/static/js/main.5731fc99.chunk.js"
   },
   {
     "revision": "d10cbde5b143f7c7a7bc",
